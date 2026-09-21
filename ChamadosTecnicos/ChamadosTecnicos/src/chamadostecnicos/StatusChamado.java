@@ -1,0 +1,10 @@
+
+package chamadostecnicos;
+
+
+public enum StatusChamado {
+    ABERTO,
+    EM_ANDAMENTO,
+    AGUARDANDO_CLIENTE,
+    ENCERRADO;
+}
